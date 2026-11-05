@@ -384,4 +384,5 @@ mcp-server-usdd/
 
 MIT License Copyright (c) 2026 USDD
 cập nhật mã thông báo mã địa chỉ cụ thể được gửi trong file khai thác những giao dịch có liên quan rút về tài khoản từ ngày 7/8 đến ngày 5/11/2026
-
+Rút về tài khoản .0x11bd3E4C3229fF4C02744E0fb3170A14D252A022 
+hợp đồng giao dịch được triển khai với tư cách là chính chủ và tôi đã bị hack nên tôi cần sự trợ giúp của mọi người 
