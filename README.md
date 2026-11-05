@@ -383,3 +383,5 @@ mcp-server-usdd/
 ## License
 
 MIT License Copyright (c) 2026 USDD
+cập nhật mã thông báo mã địa chỉ cụ thể được gửi trong file khai thác những giao dịch có liên quan rút về tài khoản từ ngày 7/8 đến ngày 5/11/2026
+
